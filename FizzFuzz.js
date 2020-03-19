@@ -32,7 +32,7 @@ for (var i = 1; i <= 100; i++) {
     console.log(i);
 }
 
-console.log("****************************************************");
+
 
 
 // Muestra si el numero es dvisible o si incluye el 3 o el 5 en el mismo
